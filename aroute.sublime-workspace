@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"std",
+				"stdio.h\tstandard header"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"CONTATO",
+				"contato"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"f",
+				"flex-wrap\tproperty"
+			],
+			[
+				"inl",
+				"inline-grid\tdisplay"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"s",
+				"static\tposition"
+			],
+			[
+				"d",
+				"dotted\tborder-style"
+			],
+			[
+				"btn",
+				"btn-menu"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"top",
+				"top\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"SERVI",
+				"servicos"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"MAR",
+				"margin-left\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"im",
+				"img2"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"posi",
+				"position\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"backgo",
+				"background\tproperty"
+			],
+			[
+				"borde",
+				"border\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/mobile first/unidade.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/mobile first/contato.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/mobile first/index.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/mobile first/servicos.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/mobile first/aroute.html",
+		"/C/Users/João Paulo/Desktop/questao6.c",
+		"/C/Users/João Paulo/Desktop/questao5.c",
+		"/C/Users/João Paulo/Desktop/questao1.c",
+		"/C/Users/João Paulo/Desktop/questao2.c",
+		"/C/Users/João Paulo/Desktop/questao.c",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/mobile first/out.c",
+		"/C/Users/João Paulo/Desktop/mobile first/out.c",
+		"/C/Users/João Paulo/Desktop/mobile first/index.html",
+		"/C/Users/João Paulo/Desktop/mobile first/unidade.html",
+		"/C/Users/João Paulo/Desktop/jotaparks/aroute.html",
+		"/C/Users/João Paulo/Desktop/mobile first/servicos.html",
+		"/C/Users/João Paulo/Desktop/mobile first/aroute.html",
+		"/C/Users/João Paulo/Desktop/mobile first/css/estilo.css",
+		"/C/Users/João Paulo/Desktop/mobile first/contato.html",
+		"/C/Users/João Paulo/Desktop/jotaparks/css/estilo.css",
+		"/C/Users/João Paulo/Desktop/jotaparks/contato.html",
+		"/C/Users/João Paulo/Desktop/jotaparks/servicos.html",
+		"/C/Users/João Paulo/Desktop/jotaparks/index.html",
+		"/C/Users/João Paulo/Desktop/jotaparks/clientes.html",
+		"/C/Users/João Paulo/Desktop/jotaparks/unidade.html",
+		"/C/Users/João Paulo/Desktop/jotaparks/css/estiloi.css",
+		"/C/Users/João Paulo/Desktop/jotaparks/css/normalize.css",
+		"/C/Users/João Paulo/Desktop/jotaparks/imagens/imagem1.jpg",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/Museu Nacional/css/estilo.css",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/Museu Nacional/index.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/Museu Nacional/img/logo.png",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/Museu Nacional/css/normalize.css",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/css3 recursos/border-radius-box-siging.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/css3 recursos/css/normalize.css",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/css3 recursos/normalize.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/css3 recursos/css/estilo.css",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/parallax/index.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/chale-hotel/css/estilo.css",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/chale-hotel/index.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/chale-hotel/imagens/bg-area-principal.png",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/noticia-cidade/nova-legislacao.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/noticia-cidade/css/estilo.css",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/noticia-cidade/index.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/ccs3 intermediario e avançado/css/estilo.css",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/ccs3 intermediario e avançado/formularios.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/ccs3 intermediario e avançado/heranca.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/ccs3 intermediario e avançado/seletores.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/ccs3 intermediario e avançado/css/seletores.html",
+		"/C/Users/João Paulo/Desktop/Desenvolvimento Web/ccs3 intermediario e avançado/index.html",
+		"/C/Users/João Paulo/Desktop/TecBlog/css/estilo.css",
+		"/C/Users/João Paulo/Desktop/TecBlog/index.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCS3 intermediário/links.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCS3 intermediário/elementos-inline-block.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCS3 intermediário/posicionamentos.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCS3 intermediário/sobrepondo-elementos.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCS3 intermediário/elementos-flutuantes-pratica.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCS3 intermediário/elementos-flutuantes.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCS3 intermediário/estilo.css",
+		"/C/Users/João Paulo/Desktop/ProjetoCS3 intermediário/modelo-caixa.html",
+		"/C/Users/João Paulo/Desktop/ProjetoAnabella/estilo.css",
+		"/C/Users/João Paulo/Desktop/ProjetoAnabella/contato.html",
+		"/C/Users/João Paulo/Desktop/ProjetoAnabella/biografias.html",
+		"/C/Users/João Paulo/Desktop/ProjetoAnabella/biografia.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/pagina1.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/estilo.css",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/pagina2.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/cor-imagem-fundo.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/estilos-textos.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/tamanhos-textos.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/fontes-cores.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/bordas.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/div-span.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/classes-ids.html",
+		"/C/Users/João Paulo/Desktop/ProjetoCSS3/inline_style.html",
+		"/C/Users/João Paulo/Desktop/ProjetoFinalHtml/quem-somos.html",
+		"/C/Users/João Paulo/Desktop/ProjetoFinalHtml/contato.html",
+		"/C/Users/João Paulo/Desktop/Primeiro Projeto/index.html",
+		"/C/Users/João Paulo/Desktop/Primeiro Projeto/projeto.html",
+		"/C/Users/João Paulo/Desktop/Primeiro Projeto/contato.html",
+		"/C/Users/João Paulo/Desktop/Projeto Web/index.html",
+		"/C/Users/João Paulo/Desktop/projeto aula/css/estilo-teste.css",
+		"/C/Users/João Paulo/Desktop/projeto aula/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aroute.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
